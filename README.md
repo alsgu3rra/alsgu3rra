@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently interested in DevOps and Microservices. I intend to pursue a career as a back end web dev. Some tools that I am used to using are: Angular, Ruby, Nodejs and Python
+I'm currently interested in DevOps and Microservices. I intend to pursue a career as a back-end web developer. Some tools that I'm used to using are: Angular, TypeScript and Python, but I want to migrate to a Dotnet stack with Angular
 
 <div> 
   <a href="https://www.youtube.com/@alsgu3rra" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
